@@ -13,7 +13,7 @@ const Header = () => {
     return (
         <>
         <h1>Welcome Home! Of Lambda Eat</h1>
-        {/* <p><h1>Lambda Eats</h1></p> */}
+        
         
         <Nav/>
         <Img src ="https://www.pizzaguys.com/v/assets/images/page-headers/6@2x.jpg" />
