@@ -8,7 +8,7 @@ describe('tests', () => {
 
 describe('Form', () => {
     it('Renders Form', ()=> {
-        cy.visit('http://localhost:3002/pizza')
+        cy.visit('http://localhost:3000/pizza')
     })
     it('inputs names', () =>{
         cy.get('#name-input')
