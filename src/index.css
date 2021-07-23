@@ -18,10 +18,17 @@ code {
   padding-bottom:0.5rem;
   border-width: 5px;
   border-style: solid;
-  border-color: black;
+  border-color:brown;
   font-weight:600;
   margin:1rem;
+  margin:7%;
+  color:brown;
   
+}
+h1{
+  text-align: center;
+  margin-bottom:5%;
+  color:brown;
 }
 #order-button{
   width:200px;
@@ -65,6 +72,6 @@ input{
   }
   h3{
     margin:2%;
-    color:blueviolet;
+    color:brown;
     font-size:30px;
   }
